@@ -1,0 +1,1 @@
+This shell supports ls,pwd,date,whoami,man,sleep,ps,piping and makedir
